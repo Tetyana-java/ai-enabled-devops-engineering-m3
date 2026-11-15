@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local data
+memory.db
+homework/memory.db
+
+# IDE
+.idea/
+.kiro/
+
+# Local databases
+*.db
+
+# IDE module files
+*.iml
